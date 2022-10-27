@@ -17,7 +17,7 @@ Make sure you have these installed
 Clone the repository
 
 ```
-git clone https://github.com/lia-new/Exchange-rate
+git clone https://github.com/IliyanaPantaleeva/Exchange-rate
 ```
 
 Make sure you are in the directory of your application.
